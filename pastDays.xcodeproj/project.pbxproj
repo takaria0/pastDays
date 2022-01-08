@@ -48,6 +48,7 @@
 		36DBCE77278833740016A093 /* pastDaysUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = pastDaysUITestsLaunchTests.swift; sourceTree = "<group>"; };
 		36DBCE84278833EF0016A093 /* IndexView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = IndexView.swift; sourceTree = "<group>"; };
 		36DBCE8827883E4D0016A093 /* Date+Extensions.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Date+Extensions.swift"; sourceTree = "<group>"; };
+		36DBCE8A2789C7950016A093 /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -78,6 +79,7 @@
 		36DBCE4E278833740016A093 = {
 			isa = PBXGroup;
 			children = (
+				36DBCE8A2789C7950016A093 /* README.md */,
 				36DBCE59278833740016A093 /* pastDays */,
 				36DBCE6A278833740016A093 /* pastDaysTests */,
 				36DBCE74278833740016A093 /* pastDaysUITests */,
